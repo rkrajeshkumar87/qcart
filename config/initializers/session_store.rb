@@ -6,7 +6,7 @@
 # no regular words or you'll be exposed to dictionary attacks.
 ActionController::Base.session = {
   :key         => '_qcart_session',
-  :secret      => 'f70f6fc194213dfcf6b9d44b544cdb030a9409a7212bb06f9e819906c6c2b906284117fbc7daf4e0061aab598c012f26f9e07ca5d2c089ff9b301da8d4d463d2'
+  :secret      => '01071ffdb9997137a4ca15fb6b31e7eb0b1ba1d42f7bc388a92dfcdcee17dcb2ee73adb8b1126f6f1d7e6ce8c6a9fa45efeabe22ad0e1f395d946696ca51a137'
 }
 
 # Use the database for sessions instead of the cookie-based default,
